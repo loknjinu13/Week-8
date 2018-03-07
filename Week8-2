@@ -1,0 +1,17 @@
+#!/bin/bash
+#Glanel Houenouvi
+#Week2 Command
+#print the sentence "Hello Amigo How are You"
+echo "Hello Amigo How are  you"
+# create a file FA
+touch FA
+#put word Papy in file FA
+echo "Papy" > FA
+
+#Globbing everything with file
+Globbing *d
+#print the actual directory
+pwd
+#run the output of file FA
+ls -l FA
+ 
