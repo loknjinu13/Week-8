@@ -1,0 +1,9 @@
+#!/bin/bash
+#Glanel Houenouvi
+#Week 4 Assignment
+# make Baba  a direectory
+mkdir ~/bobo
+#make baba a partition
+dd if=~/bobo of=swap_file bs=1024k count=1
+
+  
